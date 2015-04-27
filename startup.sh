@@ -5,7 +5,7 @@ cp _alias ~/.alias
 cp _minttyrc ~/.minttyrc
 cp _tmux.conf ~/.tmux.conf
 cp _vimrc ~/.vimrc
-cp -zshrc ~/.zshrc
+cp _zshrc ~/.zshrc
 
 echo "copy all complete ===================================>>>"
 
