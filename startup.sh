@@ -1,8 +1,12 @@
 #!/bin/bash
 
 echo "copy all ~/       ===================================>>>"
-cp -R ./*  ~/
-cp -R ./.*  ~/
+cp _alias ~/.alias
+cp _minttyrc ~/.minttyrc
+cp _tmux.conf ~/.tmux.conf
+cp _vimrc ~/.vimrc
+cp -zshrc ~/.zshrc
+
 echo "copy all complete ===================================>>>"
 
 echo "pact install tmux  ===================================>>>"
