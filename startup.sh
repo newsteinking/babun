@@ -6,7 +6,7 @@ cp _minttyrc ~/.minttyrc
 cp _tmux.conf ~/.tmux.conf
 cp _vimrc ~/.vimrc
 cp _zshrc ~/.zshrc
-cp ./projcet ~/
+cp -R ./projcet ~/
 
 rm -rf ~/startup.sh
 
