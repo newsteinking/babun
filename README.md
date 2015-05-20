@@ -10,7 +10,8 @@
 
 3. startup.sh  //will copy all config file to your root (~/ )
 
-4.>vim  and in command line, >pact install tmux
+4. install powerline font in your local pc  https://github.com/powerline/fonts
+
 
 
 written by sean
