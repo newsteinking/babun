@@ -80,6 +80,10 @@ set smartindent cinwords=if,elif,else,for,while,try,except,finally,def,class
 set nocindent
 
 highlight Pmenu guibg=brown gui=bold
+"""""""""""""""""""""""""""""""""""""""""
+   " copy & passte with mouse right click only in windows 
+""""""""""""""""""""""""""""""""""""""""""
+set mouse-=a
 
 
 """"""""""""""""""""""""""""""
